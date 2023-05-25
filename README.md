@@ -8,7 +8,12 @@ Programming Quote Generator
 
 </span></h2>
 -->
-
+<!DOCTYLE html>
+<html>
+<head>
+<title>Programming Quote Generator</title>
+</head>
+<body>
 <h1><span style="color: #FF3300;font-weight:700;">
 Programming Quote Generator
 </span></h1>
@@ -24,8 +29,6 @@ A simple python project that generates programming quotes and jokes.
 
 <h2><span style="color: #00CC66;font-weight:700;">Fork URLs</span></h2>
 
-> click on the buttons to be redirected to the forks
-
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
 **contributor-1**
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
@@ -38,3 +41,5 @@ A simple python project that generates programming quotes and jokes.
 **contributor-3**
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 
+</body>
+</html>
