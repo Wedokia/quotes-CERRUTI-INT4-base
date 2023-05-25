@@ -38,3 +38,6 @@ contributor-2
 contributor-3
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 
+<span style="color:red">
+Text content
+</span>
