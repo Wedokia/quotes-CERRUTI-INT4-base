@@ -24,7 +24,7 @@ A simple python project that generates programming quotes and jokes.
 <li><code>initiator</code>: <a href="https://github.com/Wedokia"><strong>MEUNIER Antoine INT-4</strong></a></li>
 <li><code>initiator</code>: <a href="https://github.com/Wedokia"><strong>MSALMI Jaafar INT-4</strong></a></li>
 <li><code>initiator</code>`: <a href="https://github.com/Wedokia"><strong>ASSEPO Warren INT-4</strong></a></li>
-
+</ul>
 <h2><span style="color: #00CC66;font-weight:700;">Fork URLs</span></h2>
 
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
