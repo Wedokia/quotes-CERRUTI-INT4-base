@@ -19,24 +19,23 @@ Programming Quote Generator
 A simple python project that generates programming quotes and jokes.
 
 <h2><span style="color: #00CC66;font-weight:700;">Contributors</span></h2>
-
-- `initiator`: <strong>CERRUTI Maxime INT-4</strong>
-- `contributor-1`: <strong class="name">MEUNIER Antoine INT-4</strong>
-- `contributor-2`: <strong>ASSEPO Warren INT-4</strong>
-- `contributor-3`: <strong>MSALMI Jaafar INT-4</strong>
+<ul>
+<li> <code>initiator</code>: <a href="https://github.com/Wedokia"><strong>CERRUTI Maxime INT-4</strong></a></li>
+<li><code>initiator</code>: <a href="https://github.com/Wedokia"><strong>MEUNIER Antoine INT-4</strong></a></li>
+<li><code>initiator</code>: <a href="https://github.com/Wedokia"><strong>MSALMI Jaafar INT-4</strong></a></li>
+<li><code>initiator</code>`: <a href="https://github.com/Wedokia"><strong>ASSEPO Warren INT-4</strong></a></li>
 
 <h2><span style="color: #00CC66;font-weight:700;">Fork URLs</span></h2>
 
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
-**contributor-1**
+<strong>contributor-1</strong>
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
-**contributor-2**
+<strong>contributor-2</strong>
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
-**contributor-3**
+<strong>contributor-3</strong>
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 
-<a href="https://github.com/Wedokia/quotes-CERRUTI-INT">`contributor-3`</a>
 </body>
 </html>
