@@ -15,7 +15,6 @@ Programming Quote Generator
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![License][license-shield]][license-url]
 
 <h1><span style="color: #FF3300;font-weight:700;">
@@ -60,8 +59,8 @@ A simple python project that generates programming quotes and jokes.
 [contributors-shield]: https://img.shields.io/github/contributors/Wedokia/quotes-CERRUTI-INT4.svg?style=for-the-badge
 [contributors-url]: https://github.com/Wedokia/quotes-CERRUTI-INT4/contributors
 [forks-shield]: https://img.shields.io/github/forks/Wedokia/quotes-CERRUTI-INT4.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[forks-url]: https://github.com/Wedokia/quotes-CERRUTI-INT4/network/members
+[stars-shield]: https://img.shields.io/github/stars/Wedokia/quotes-CERRUTI-INT4.svg?style=for-the-badge
+[stars-url]: https://github.com/Wedokia/quotes-CERRUTI-INT4/stargazers
 [license-shield]: https://img.shields.io/github/license/Wedokia/quotes-CERRUTI-INT4.svg?style=for-the-badge
 [license-url]: https://github.com/Wedokia/quotes-CERRUTI-INT4/blob/main/LICENSE
