@@ -37,5 +37,6 @@ A simple python project that generates programming quotes and jokes.
 **contributor-3**
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 
+<a href="https://github.com/Wedokia/quotes-CERRUTI-INT">`contributor-3`</a>
 </body>
 </html>
