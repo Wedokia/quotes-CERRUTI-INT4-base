@@ -27,15 +27,14 @@ A simple python project that generates programming quotes and jokes.
 > click on the buttons to be redirected to the forks
 
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
-contributor-1
+**contributor-1**
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
-contributor-2
+**contributor-2**
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
-contributor-3
+**contributor-3**
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
 
-<span style="color: red;">Texte en rouge</span>
