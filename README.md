@@ -37,3 +37,5 @@ contributor-2
 [<button style= "background-color: #00CC66;border: none;color: white;padding: 5px 25px;text-align: center;font-size: 16px;margin: 4px 2px;cursor: pointer;border-radius: 8px;font-weight:700;">
 contributor-3
 </button>](https://github.com/Wedokia/quotes-CERRUTI-INT4)  
+
+[Click me](http://www.google.com){: .btn}
